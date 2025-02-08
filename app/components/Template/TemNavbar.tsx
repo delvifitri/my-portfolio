@@ -49,7 +49,7 @@ export default function TemNavbar() {
                   <DarkThemeButton />
 
                   <button>
-                    <a href="https://github.com/LinaMahrouch" target="_blank" rel="noreferrer" aria-label="View GitHub Profile">
+                    <a href="https://github.com/delvifitri" target="_blank" rel="noreferrer" aria-label="View GitHub Profile">
                       <motion.svg
                         viewBox="0 0 16 16"
                         fill="currentColor"

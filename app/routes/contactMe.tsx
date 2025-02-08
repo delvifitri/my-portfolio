@@ -6,7 +6,7 @@ const ContactMe= () => {
     const LinkedinIcon: ReactElement = (
       // Your LinkedIn SVG icon
       <span><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-      width="26" height="26" viewBox="0 0 192 192">
+      width="20" height="20" viewBox="0 0 192 192">
       {
       <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none">
       <path d="M0,192v-192h192v192z" fill="none"></path>

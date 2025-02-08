@@ -24,6 +24,7 @@ export interface Post {
   export interface Project {
     projects: {
       id: string;
+      slug: string;
       link: string;
       title: string;
       overview: string;
@@ -34,4 +35,18 @@ export interface Post {
     }[];
   }
   
+  export interface ProjectId {
+    project: {
+      id: string;
+      slug: string;
+      link: string;
+      title: string;
+      overview: string;
+      publishedAt: string;
+      images: {
+        url: string;
+      }[];
+      content: any;
+    };
+  }
   

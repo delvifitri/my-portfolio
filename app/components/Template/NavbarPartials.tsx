@@ -56,7 +56,7 @@ export const NavbarItem = ({
 export const GitHubButton = () => {
   return (
     <button aria-label="Check my GitHub" >
-      <a href="https://github.com/LinaMahrouch" target="_blank" rel="noreferrer">
+      <a href="https://github.com/delvifitri" target="_blank" rel="noreferrer">
         <motion.svg
           viewBox="0 0 16 16"
           fill="currentColor"
