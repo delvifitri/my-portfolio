@@ -25,6 +25,9 @@ export default function Profile({ imageSrc, name, description,width, height }: P
           {description}
         </p>
       </div>
+      <a href="/resume.pdf" download className="text-black font-semibold dark:text-white border border-black dark:border-white rounded-full px-4 py-2 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black">
+        Download CV
+      </a>
     </div>
   );
 }
